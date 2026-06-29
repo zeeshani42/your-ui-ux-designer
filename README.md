@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/960eb80f-beb8-4a3f-8271-b022402f98d9" /># UI/UX Designer — a design skill for Claude
+<img width="1456" height="819" alt="Cover" src="https://github.com/user-attachments/assets/b403b70b-21c1-4221-99b6-1011c8530202" /> # UI/UX Designer — a design skill for Claude
 
 A universal UI/UX **design** skill for Claude. Generate production-grade dashboards, landing pages, and mobile screens — with real states, responsive breakpoints, accessibility, and a consistent design system — across HTML, Figma, Claude Design, or any design tool.
 
