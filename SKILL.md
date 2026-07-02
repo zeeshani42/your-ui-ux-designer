@@ -1,12 +1,18 @@
 ---
 name: ui-ux-designer
+displayName: UI/UX Designer
 description: Universal UI/UX skill for generating production-grade screens, components, and design systems. Triggers on any UI/UX design intent — dashboards, landing pages, mobile apps, admin panels, modals, forms, and more.
+summary: Generates production-grade UI screens, components, and design systems across HTML, Figma, and spec output. Covers 11 design styles, enterprise navigation, responsive breakpoints, and full state rendering.
 version: 1.0.0
 author: zeeshani42
 tags: [ux, ui, design, enterprise, figma, html, dashboard, mobile, landing-page]
+changelog:
+  - version: 1.0.0
+    date: 2026-06-30
+    notes: First public release. 11 styles, dual-nav, 4 output formats, Opus/Sonnet routing, progressive disclosure architecture.
 ---
 
-# Enterprise Design Skill
+# UI/UX Designer
 
 A universal UI/UX design skill. No dependencies. Works with any tool, any industry, any context. Enterprise-grade output every time.
 
@@ -28,6 +34,17 @@ Pick the model to match the output target. This materially affects quality.
 | Claude Design | Opus 4.8 | high |
 
 Low reasoning effort drops states and responsive code — never run this skill at low effort regardless of model.
+
+## Reference Files
+
+Load these conditionally — only when the task requires it:
+
+| File | Load when |
+|---|---|
+| `references/styles.md` | User selects a style or asks about visual direction |
+| `references/patterns.md` | Building navigation, tables, dropdowns, or complex components |
+| `references/mobile.md` | Output target is mobile or screen type is mobile |
+| `references/figma.md` | Output target is Figma |
 
 ---
 
@@ -646,6 +663,26 @@ Use the block matching the session-gate output target.
 
 ### OUTPUT FORMAT — CLAUDE DESIGN
 [DEFERRED] — add once HTML/Figma/Spec output quality is validated in testing. Do not author this block yet; route Claude Design requests through the closest target (usually HTML) until then.
+
+---
+
+## Examples
+
+**Aviation dashboard:**
+> "Design an aviation contract management dashboard. Output as HTML."
+→ Session gate fires → style + dark mode selected → renders full dashboard with KPI row, contract table, status chips, 4 breakpoints, all states.
+
+**Transport mobile:**
+> "Build a mobile driver app for a TMS. Job list + job detail view."
+→ Session gate fires → mobile reference loaded → renders bottom nav, thumb-zone actions, swipe gestures, 44px targets.
+
+**HRM spec:**
+> "Generate a spec for an employee self-service portal."
+→ Session gate fires → spec output format → layout / typography / color / components / interactions / states fully documented.
+
+**Component:**
+> "Design a data table component with sort, filter, and bulk actions."
+→ No session gate needed for components → renders all states (default/hover/selected/loading/empty/error) + keyboard interactions.
 
 ---
 
