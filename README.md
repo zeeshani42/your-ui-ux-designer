@@ -59,7 +59,7 @@ Tested across **30 cases** — Aviation, Transport, and HRM — scored on a 10-c
 | Responsiveness — breakpoints | 9.0 / 10 |
 | Responsiveness — behavior | 9.0 / 10 |
 
----///
+---
 
 ## Compatible with
 
@@ -93,43 +93,6 @@ Tested across **30 cases** — Aviation, Transport, and HRM — scored on a 10-c
   </tr>
 </table>
 
-
-
-
-
-----////
-
-## Compatible with
-
-<table>
-  <tr>
-    <td align="center" width="20%">
-        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/45baf16f-9fa5-4675-850c-19ddf55d80a1" /><br/>
-      <strong>Claude Chat</strong><br/>
-      <sub>Tested · 91.1</sub>
-    </td>
-    <td align="center" width="20%">
-        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/c0c43f6b-37c6-45f1-bc2c-1133b01bb1c4" /><br/>
-      <strong>Claude Code</strong><br/>
-      <sub>Supported</sub>
-    </td>
-    <td align="center" width="20%">
-        <img width="40" height="40" alt="image 1" src="https://github.com/user-attachments/assets/b24d6bb9-409a-47dc-b363-cd16f520da26" /><br/>
-      <strong>Claude Cowork</strong><br/>
-      <sub>Supported</sub>
-    </td>
-    <td align="center" width="20%">
-        <img width="40" height="40" alt="figma icon" src="https://github.com/user-attachments/assets/73b8a7ea-c3ce-457e-88b5-524ea6e94ba5" /><br/>
-      <strong>Figma</strong><br/>
-      <sub>Tested · 88.0</sub>
-    </td>
-    <td align="center" width="20%">
-        <img width="40" height="40" alt="html5" src="https://github.com/user-attachments/assets/9994e866-b452-4f8d-9e6c-c6070c3cd165" /><br/>
-      <strong>HTML</strong><br/>
-      <sub>Tested · 93.0</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
