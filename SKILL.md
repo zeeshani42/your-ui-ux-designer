@@ -1,15 +1,13 @@
 ---
 name: ui-ux-designer
-displayName: UI/UX Designer
-description: Universal UI/UX skill for generating production-grade screens, components, and design systems. Triggers on any UI/UX design intent — dashboards, landing pages, mobile apps, admin panels, modals, forms, and more.
-summary: Generates production-grade UI screens, components, and design systems across HTML, Figma, and spec output. Covers 11 design styles, enterprise navigation, responsive breakpoints, and full state rendering.
-version: 1.0.0
-author: zeeshani42
-tags: [ux, ui, design, enterprise, figma, html, dashboard, mobile, landing-page]
-changelog:
-  - version: 1.0.0
-    date: 2026-06-30
-    notes: First public release. 11 styles, dual-nav, 4 output formats, Opus/Sonnet routing, progressive disclosure architecture.
+description: Universal UI/UX skill for generating production-grade screens, components, and design systems across HTML, Figma, and spec output. Use for any UI/UX design intent - dashboards, landing pages, mobile apps, admin panels, modals, forms, and more. Covers 11 design styles, enterprise navigation, responsive breakpoints, and full state rendering.
+license: MIT
+metadata:
+  display-name: UI/UX Designer
+  version: 1.0.0
+  author: zeeshani42
+  tags: ux, ui, design, enterprise, figma, html, dashboard, mobile, landing-page
+  release-notes: 1.0.0 (2026-06-30) - First public release. 11 styles, dual-nav, 4 output formats, Opus/Sonnet routing, progressive disclosure architecture.
 ---
 
 # UI/UX Designer
