@@ -10,6 +10,10 @@ A universal UI/UX design skill for Claude. Generate production-grade dashboards,
 
 Most design tooling for AI targets raw HTML/CSS or graphics. This is a true **UI/UX skill**: it thinks in screens, navigation, interaction, and design systems not just markup.
 
+[![Security: A - Skills Directory](https://www.skillsdirectory.com/api/skills/zeeshani42-ui-ux-designer/badge)](https://www.skillsdirectory.com/skills/zeeshani42-ui-ux-designer)
+
+**Get it:** [Download the skill](https://github.com/zeeshani42/your-ui-ux-designer/releases/latest) · [Agensi](https://www.agensi.io/skills/ui-ux-designer-dashboards-landing-pages-mobile-apps) · [Demo video](https://youtu.be/iHbtZ6iIv2k) · [Full write-up](https://dev.to/zeeshani42/i-built-a-claude-skill-that-makes-ai-design-like-a-senior-ux-designer-2gdm)
+
 ---
 
 ## What makes it different
