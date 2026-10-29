@@ -14,7 +14,7 @@ Most design tooling for AI targets raw HTML/CSS or graphics. This is a true **UI
 
 **Get it:** [Download the skill](https://github.com/zeeshani42/your-ui-ux-designer/releases/latest) · [Agensi](https://www.agensi.io/skills/ui-ux-designer-dashboards-landing-pages-mobile-apps) · [Demo video](https://youtu.be/iHbtZ6iIv2k) · [Full write-up](https://dev.to/zeeshani42/i-built-a-claude-skill-that-makes-ai-design-like-a-senior-ux-designer-2gdm)
 
-**Also listed on:** [Agensi](https://www.agensi.io/skills/ui-ux-designer-dashboards-landing-pages-mobile-apps) · [Skills Directory](https://www.skillsdirectory.com/skills/zeeshani42-ui-ux-designer) · [ClaudeMarketplace](https://www.claudemarketplace.net)
+**Also listed on:** [Agensi](https://www.agensi.io/skills/ui-ux-designer-dashboards-landing-pages-mobile-apps) · [Skills Directory](https://www.skillsdirectory.com/skills/zeeshani42-ui-ux-designer) · [ClaudeMarketplace](https://www.claudemarketplace.net/skills/zeeshani42-ui-ux-designer)
 
 ---
 
